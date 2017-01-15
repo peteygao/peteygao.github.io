@@ -26,3 +26,7 @@ Let's be excited when a startup that we happen to be part of makes it into the b
 But don't forget that progress in the cultural sphere changes at its own pace, buffeted by our ability to be open and inclusive. The kind of progress that will matter twenty years later will be the kind we make happen today, as people.
 
 <a name="footnote-1" href="#inline-footnote-1">[1]</a> I was way off with this remark. I looked up performance benchmarks of the 80486 DX2 and it can performs about 2MFLOP/s, whereas an iPhone 7's CPU is in the ballpark of 2-3GFLOP/s (that's a 1000x difference, not "hundreds of thousands").
+
+---
+
+Thanks to Jimmy He and Eric Tsai for reading earlier drafts of this post and offering feedback.
