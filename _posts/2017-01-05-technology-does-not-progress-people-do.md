@@ -29,4 +29,4 @@ But don't forget that progress in the cultural sphere changes at its own pace, b
 
 ---
 
-Thanks to Jimmy He and Eric Tsai for reading earlier drafts of this post and offering feedback.
+Thanks to Jimmy He, Nancy Ku, Nolan Ku and Eric Tsai for reading earlier drafts of this post and offering feedback.
