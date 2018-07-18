@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Setting up Elm 0.18 with Phoenix 1.3 using Brunch 2"
+title:  "Headache free setup of Elm 0.18 with Phoenix 1.3 using Brunch 2"
 date:   2018-07-18 00:43:00 -0800
 tags: [Elm, Phoenix, Elixir]
 ---
 
 
-This is an end-to-end tutorial for getting setup with the **latest** [Elm](http://elm-lang.org) (0.18.x), [Elixir](https://elixir-lang.org/) (1.6.x), [Phoenix](http://phoenixframework.org/) (1.3.x) and [Brunch](https://brunch.io/) (2.10.x) with _minimum_ configurations.
+This is an end-to-end tutorial for getting setup with the **latest** [Elm](http://elm-lang.org) (0.18.x), [Elixir](https://elixir-lang.org/) (1.6.x), [Phoenix](http://phoenixframework.org/) (1.3.x) and [Brunch](https://brunch.io/) (2.10.x) with _minimum_ headaches.
 
 There are plenty of great tutorials for past versions of Elm, Elixir and Phoenix, of course. Some of those lessons are largely still applicable, but with Phoenix 1.3, the directory structure for things have shifted around a little bit, so here's a fresh introduction to getting all of these moving targets to play nicely together.
 
