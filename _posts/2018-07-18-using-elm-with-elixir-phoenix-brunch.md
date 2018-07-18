@@ -207,6 +207,7 @@ main =
 
 Let's boot up the Phoenix server (which will in turn start up a Brunch watch job) and have it compile our `Main.elm` file:
 ```bash
+$ cd ../.. # If we are still inside of `assets/elm/`, back out to project root
 $ mix phx.server
 ```
 
