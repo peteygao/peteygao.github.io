@@ -25,9 +25,8 @@ For the savvy reader, you'll have noticed `(pulse) audio` within the first parag
 is playing and the device gets disconnected, there is a bug wherein pulseaudio gets stuck on "Dummy Output".
 
 The fix is quite simple with two options:
-
-1) Reboot your machine (ahaha, who does this anymore? This is 2023, and we're going for 20 years of uptime baby!)
-2) Restart `pulseaudio` service.
+1. Reboot your machine (ahaha, who does this anymore? This is 2023, and we're going for 20 years of uptime baby!)
+2. Restart `pulseaudio` service.
 
 Let's go with option 2:
 `pulseaudio --kill && pulseaudio --start`
